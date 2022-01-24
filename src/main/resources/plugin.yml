@@ -1,0 +1,14 @@
+name: ExpTech_Here
+version: 1.0
+author: whes1015
+main: main.main
+api-version: 1.18
+
+commands:
+  he:
+    description: 控制 ExpTech_Here 插件
+    usage: /he <args>
+    permission: exptech.admin
+  loc:
+    description: 廣播你的位置
+    usage: /loc
